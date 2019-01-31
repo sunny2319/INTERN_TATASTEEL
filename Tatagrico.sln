@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tatagrico", "Tatagrico\Tatagrico.csproj", "{6FDF2793-8E89-4BDC-B430-3C752E7CA005}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6FDF2793-8E89-4BDC-B430-3C752E7CA005}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FDF2793-8E89-4BDC-B430-3C752E7CA005}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FDF2793-8E89-4BDC-B430-3C752E7CA005}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FDF2793-8E89-4BDC-B430-3C752E7CA005}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3CB90FB6-C628-4B22-8115-51D4C52893F5}
+	EndGlobalSection
+EndGlobal
